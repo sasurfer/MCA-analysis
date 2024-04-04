@@ -1,0 +1,12 @@
+CDR_name,com,dem,rest,Java,api,gui,flat,gdl,form,aql,term,open,archet,temp,fi,fe,extr,oauth2
+EHRBase,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no,dev,dev,no,yes
+Better,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,dev,yes,no,yes
+Base24,yes,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,yes,yes,no,yes
+Cabo,no,no,yes,no,dev,yes,no,no,no,no,no,yes,no,no,ext,ext,no,no
+ArenaEHR,yes,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,none,yes
+eWeave,yes,yes,no,no,no,yes,no,no,yes,yes,yes,no,no,yes,no,no,no,no
+EHRCare,yes,yes,yes,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no
+Clever,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no,no,yes,yes,no,no,yes,yes
+EHRDB,yes,no,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,no,dev,dev,dev,yes
+RHP,yes,yes,yes,yes,no,yes,yes,no,yes,no,yes,no,yes,yes,no,no,no,no
+EHRNet,yes,no,yes,no,no,yes,yes,no,dev,yes,yes,no,no,no,yes,yes,no,no
