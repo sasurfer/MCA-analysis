@@ -1,0 +1,12 @@
+CDR_name,com,dem,rest,api,gui,flat,form,aql,open,fi,fe
+EHRBase,n,n,y,y,y,y,n,y,y,y,y
+Better,y,n,y,y,y,y,y,y,n,y,y
+Base24,y,y,n,n,y,n,y,n,n,y,y
+Cabo,n,n,y,y,y,n,n,n,y,e,e
+ArenaEHR,y,n,y,y,y,y,y,y,n,y,y
+eWeave,y,y,n,n,y,n,y,y,n,n,n
+EHRCare,y,y,y,n,n,y,y,y,n,n,n
+Clever,y,y,y,n,y,y,y,y,n,n,n
+EHRDB,y,n,y,y,y,y,y,y,n,y,y
+RHP,y,y,y,n,y,y,y,n,n,n,n
+EHRNet,y,n,y,n,y,y,y,y,n,y,y
