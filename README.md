@@ -15,6 +15,12 @@ Python 3.8.10
 Numpy 1.23.0
 Pandas 1.3.2
 Prince 0.7.1
+matplotlib==3.4.3
+matplotlib-inline==0.1.6
+plotly==5.4.0
+scikit-learn==0.24.2
+scikit-learn-extra==0.2.0
+
 
 For R script
 R version base 4.3.3
